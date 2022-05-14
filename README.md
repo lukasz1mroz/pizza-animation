@@ -1,2 +1,1 @@
-# pizza-animation
-Css animation exercise
+CSS animation exercise, run index.html in browser to test
